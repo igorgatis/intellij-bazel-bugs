@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kotlin-stdlib-jdk8_b9131a">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_root/6392f1376a7b3bcee7ad76b88048d940/execroot/acqio/external/com_github_jetbrains_kotlin/lib/kotlin-stdlib-jdk8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
